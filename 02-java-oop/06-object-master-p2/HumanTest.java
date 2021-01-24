@@ -25,4 +25,5 @@ public class HumanTest {
         Wizard.howMany();
         Samurai.howMany();
     }
+    
 }
