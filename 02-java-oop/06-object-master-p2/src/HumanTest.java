@@ -1,5 +1,3 @@
-package human;
-
 public class HumanTest {
 
     public static void main(String[] args) {
@@ -25,5 +23,4 @@ public class HumanTest {
         Wizard.howMany();
         Samurai.howMany();
     }
-    
 }
